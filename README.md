@@ -21,7 +21,7 @@ You have to add this repository to the list defined in composer.js Magento :
     {
         "type": "git",
         "url": "git@icebrick.pengostores.mx:Magento2/ajaxlogin.git",
-        "reference": "master"
+        "reference": " 1.0.0.0"
     }
 ],
 ```
