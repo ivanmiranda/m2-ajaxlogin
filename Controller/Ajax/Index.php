@@ -1,7 +1,7 @@
 <?php
 /**
  *
- * Copyright © 2015 aaoocommerce. All rights reserved.
+ * Copyright © 2015 pengostores. All rights reserved.
  */
 namespace Pengo\Ajaxlogin\Controller\Ajax;
 

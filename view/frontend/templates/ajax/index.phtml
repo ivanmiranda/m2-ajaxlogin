@@ -1,6 +1,6 @@
 <?php
 /**
- * Copyright © 2015 aaoocommerce. All rights reserved.
+ * Copyright © 2015 pengostores. All rights reserved.
  */
 ?>
 <?php
@@ -34,7 +34,7 @@
             <div class="loading"><img src="<?php /* @escapeNotVerified */ echo $block->getViewFileUrl('images/loader-1.gif'); ?>" alt="<?php /* @escapeNotVerified */ echo __('Loading...') ?>"></div>
             <div class="secondary"><a class="action remind" href="/customer/account/forgotpassword/"><span><?php echo __('Forgot your password?') ?></span></a></div>
         </div>
-        <div class="create-account"><span><?php echo __('Need an account?') ?></span> <a class="action remind" href="/customer/account/create/"><span><?php echo __('Create New') ?></span></a></div>
+        <div class="create-account"><span><?php echo __('Need an account?') ?></span> <a class="action remind" href="#" onclick="jQuery('.ajax-form').hide();jQuery('.ajax-form-create').show();"><span><?php echo __('Create New') ?></span></a></div>
     </form>
 </div>
 

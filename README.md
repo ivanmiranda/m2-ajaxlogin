@@ -1,12 +1,12 @@
 # Ajax Login
 
-Allows your customers access from a pop-up
+Allows your customers access/register from a pop-up
 
 # Use
 
 Define that will be linked with to displayed pop access
 
-![Slider Style 1](https://s17.postimg.org/oaqk3183z/ajaxlogin_config.png)
+![Configuration](https://s17.postimg.org/oaqk3183z/ajaxlogin_config.png)
 
 ## Install
 
@@ -43,10 +43,6 @@ composer [install][update]
 > 
 NOTE : The container must have installed git and have linked certificates with a registered account
 
-
-# To Do
-
-- [ ] Include a customer registry by popup
 
 --
 
